@@ -18,12 +18,12 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.tmobile.theme.Androidian"
+    package="com.tmobile.theme.Rover"
     android:hasCode="false">
 
     <theme
-        pluto:themeId="Androidian"
-        pluto:styleId="@style/Androidian"
+        pluto:themeId="Rover"
+        pluto:styleId="@style/Rover"
         pluto:name="@string/theme_name"
         pluto:thumbnail="media/images/thumb.png"
         pluto:preview="media/images/preview.png"
